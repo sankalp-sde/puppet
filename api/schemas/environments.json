@@ -52,7 +52,7 @@
               ]
             }
           },
-          "required": ["settings"]
+          "required": ["a"]
         }
       }
     }
